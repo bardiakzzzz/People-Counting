@@ -2,7 +2,7 @@
 
 It is my bachelor thesis and its aim is to detect people and pass them into tracking phase
 
-![Alt Text](https://github.com/bardiakzzzz/People-Counting-yolov5/blob/master/images/output.gif)
+![Alt Text](https://github.com/bardiakzzzz/People-Counting-yolov5/blob/master/src/output.gif)
 
 
 ## Requirements
